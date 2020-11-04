@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d0cca8d-72f6-4c5e-8388-42ab5aeac57c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FromCRMtoCRM" beforeDir="false" afterPath="$PROJECT_DIR$/../FromCRMtoCRM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mall.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/FromCRMtoCrmApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/common/api/CommonPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/common/api/CommonResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/common/api/IErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/common/api/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/common/utils/JwtTokenUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/component/JwtAuthenticationTokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/component/RestAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/component/RestfulAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/config/MyBatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/config/Swagger2Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/controller/PmsBrandController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/controller/UmsAdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/controller/UmsMemberController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/dao/UmsAdminRoleRelationDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/dto/AdminUserDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/dto/UmsAdminLoginParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/CommentGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/PmsBrandMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminPermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminRoleRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsPermissionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsRoleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsRolePermissionRelationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/PmsBrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/PmsBrandExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdminExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdminPermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdminPermissionRelationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdminRoleRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsAdminRoleRelationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsPermissionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsRoleExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsRolePermissionRelation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/mbg/model/UmsRolePermissionRelationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/PmsBrandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/RedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/UmsAdminService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/UmsMemberService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/impl/PmsBrandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/impl/RedisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/impl/UmsAdminServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/cn/com/lshmnc/FromCRMtoCRM/service/impl/UmsMemberServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/PmsBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminPermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsAdminRoleRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsPermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsRoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/cn/com/lshmnc/FromCRMtoCRM/mbg/mapper/UmsRolePermissionRelationMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/generator.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/UmsAdminRoleRelationDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/cn/com/lshmnc/FromCRMtoCRM/FromCrMtoCrmApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\LeetCode\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jo1k29RMB8GcF3Quc7pu8jIky9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LeetCode\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode7">
+    <configuration name="LeetCode5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode5" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode6" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode7" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode7" />
+        <item itemvalue="Application.LeetCode6" />
+        <item itemvalue="Application.LeetCode5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0cca8d-72f6-4c5e-8388-42ab5aeac57c" name="Default Changelist" comment="" />
+      <created>1604455769755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604455769755</updated>
+      <workItem from="1604455773854" duration="3976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2106" y="90" key="FileChooserDialogImpl" timestamp="1604459868412">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="90" key="FileChooserDialogImpl/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459868412" />
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1604459241631">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459241631" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1604459241631">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459241631" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1604459241631">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459241631" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1604459241631">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459241631" />
+    <state width="1877" height="218" key="GridCell.Tab.1.bottom" timestamp="1604456068638">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604456068638" />
+    <state width="1877" height="218" key="GridCell.Tab.1.center" timestamp="1604456068638">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.1.center/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604456068638" />
+    <state width="1877" height="218" key="GridCell.Tab.1.left" timestamp="1604456068638">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.1.left/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604456068638" />
+    <state width="1877" height="218" key="GridCell.Tab.1.right" timestamp="1604456068638">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="218" key="GridCell.Tab.1.right/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604456068638" />
+    <state x="1829" y="-9" key="SettingsEditor" timestamp="1604459844611">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="1829" y="-9" key="SettingsEditor/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459844611" />
+    <state x="2155" y="224" key="git4idea.rebase.GitRebaseDialog" timestamp="1604459618989">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="2155" y="224" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604459618989" />
+    <state x="1989" y="51" width="672" height="678" key="search.everywhere.popup" timestamp="1604458038823">
+      <screen x="1366" y="-174" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="51" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-174.1920.1040@1366.-174.1920.1040" timestamp="1604458038823" />
+  </component>
+</project>

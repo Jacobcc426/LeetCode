@@ -5,10 +5,14 @@ import java.util.List;
 public class LeetCode7 {
     public static void main(String[] args) {
         System.out.println(LeetCode7Solution.reverse(1534236469));
+        while(true);
     }
 }
 
 class LeetCode7Solution {
+    static{
+        System.out.println("test");
+    }
     public static int reverse(int x) {
         Long max ;
         Long min ;

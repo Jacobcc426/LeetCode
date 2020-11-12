@@ -1,3 +1,5 @@
+package LeetCode;
+
 import java.util.Stack;
 
 public class LeetCode232 {
@@ -53,8 +55,8 @@ class MyQueue {
 }
 
 /**
- * Your MyQueue object will be instantiated and called as such:
- * MyQueue obj = new MyQueue();
+ * Your LeetCode.MyQueue object will be instantiated and called as such:
+ * LeetCode.MyQueue obj = new LeetCode.MyQueue();
  * obj.push(x);
  * int param_2 = obj.pop();
  * int param_3 = obj.peek();

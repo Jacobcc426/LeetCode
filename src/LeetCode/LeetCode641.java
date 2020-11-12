@@ -1,3 +1,5 @@
+package LeetCode;
+
 public class LeetCode641 {
 }
 class MyCircularDeque {
@@ -97,8 +99,8 @@ class MyCircularDeque {
 }
 
 /**
- * Your MyCircularDeque object will be instantiated and called as such:
- * MyCircularDeque obj = new MyCircularDeque(k);
+ * Your LeetCode.MyCircularDeque object will be instantiated and called as such:
+ * LeetCode.MyCircularDeque obj = new LeetCode.MyCircularDeque(k);
  * boolean param_1 = obj.insertFront(value);
  * boolean param_2 = obj.insertLast(value);
  * boolean param_3 = obj.deleteFront();

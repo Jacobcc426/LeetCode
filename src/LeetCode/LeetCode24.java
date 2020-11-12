@@ -1,5 +1,4 @@
-import java.util.HashSet;
-import java.util.Set;
+package LeetCode;
 
 public class LeetCode24 {
 }

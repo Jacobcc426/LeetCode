@@ -1,6 +1,4 @@
-
-import java.util.Map;
-import java.util.TreeMap;
+package LeetCode;
 
 public class LeetCode11 {
     public static void main(String[] args) {

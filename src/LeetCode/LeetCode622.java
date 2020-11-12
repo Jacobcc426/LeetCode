@@ -1,6 +1,4 @@
-import java.util.LinkedHashMap;
-import java.util.LinkedList;
-import java.util.List;
+package LeetCode;
 
 public class LeetCode622 {
 }
@@ -66,8 +64,8 @@ class MyCircularQueue {
 }
 
 /**
- * Your MyCircularQueue object will be instantiated and called as such:
- * MyCircularQueue obj = new MyCircularQueue(k);
+ * Your LeetCode.MyCircularQueue object will be instantiated and called as such:
+ * LeetCode.MyCircularQueue obj = new LeetCode.MyCircularQueue(k);
  * boolean param_1 = obj.enQueue(value);
  * boolean param_2 = obj.deQueue();
  * int param_3 = obj.Front();

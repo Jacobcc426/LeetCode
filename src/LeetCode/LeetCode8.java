@@ -1,4 +1,5 @@
-import javax.xml.stream.events.Characters;
+package LeetCode;
+
 import java.util.HashMap;
 import java.util.Map;
 
